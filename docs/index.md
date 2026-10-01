@@ -1,3 +1,3 @@
 Hello world
 
-[Project Proposal](project-proposal.md)
+[Project Proposal](project-proposal)
